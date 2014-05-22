@@ -1,0 +1,25 @@
+{
+	"name": "gracenode-memcache",
+	"description": "Memcache management module for gracenode.",
+	"version": "0.1.0",
+	"author": "Nobuyori Takahashi <voltrue2@yahoo.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/voltrue2/gracenode-memcache.git"
+	},
+	"dependencies": {
+		"memcached": "0.2.8"
+	},
+	"devDependencies": {
+		"mocha": "1.18.2"
+	},
+	"engine": "node >= 0.10.20",
+	"contributors": [],
+	"keywords": [
+		"gracenode",
+		"framework",
+		"module",
+		"memcache"
+	],
+	"license": "MIT"
+}
